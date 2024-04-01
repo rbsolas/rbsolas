@@ -4,7 +4,10 @@ I'm a computer science undergraduate from the University of the Philippines Dili
 My other hobbies include playing JRPGs and fighting games, watching shows and movies, and reading novels. Someday, I want to stitch my interest in math, music, and computer science into research and contribute to the ever-advancing technology of our world.
 
 ### Technical Skills
-#### Fields
+<details>
+  <summary>Show/Hide</summary>
+
+  #### Fields
 Data Science, Scientific Computing, Frontend Web Development, Software Development
 
 #### Programming Languages
@@ -71,6 +74,8 @@ Data Science, Scientific Computing, Frontend Web Development, Software Developme
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
+</details>
+
 
 <!--
 **rbsolas/rbsolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
